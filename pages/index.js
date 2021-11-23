@@ -75,13 +75,13 @@ function Home(props) {
                     dangerouslySetInnerHTML={{
                       __html: t('home:ribbon.title', {
                         defaultValue:
-                          '<br />A secure and user-friendly digital currency.<br />',
+                          '<br />CryptoCurrency And NFT MarkePlace<br />',
                       }),
                     }}
                   />
                   <p>
                     {t('home:ribbon.text1', {
-                      defaultvalue: 'Built for everyday transactions.',
+                      defaultvalue: 'Built for everyday Price.',
                     })}
                   </p>
                   <WalletsBtn />
